@@ -1,6 +1,6 @@
 ## All We Do Is Eat Eat Eat No Matter What
 
-Date: 24/9/15
+**Date: 24/9/15**
 
 ### Shibuya
 
@@ -18,7 +18,7 @@ For those that want the Hollywood summary of the story, check out **Hachi** star
 
 The undying loyalty of Hachiko has been memorialised at Shibuya Station with a bronze statue in his name. Aside from the crazy crossing, is one of the many highlights of Shibuya.
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/hachiko.jpg "Hachiko The Faithful Companion")
 
 The statue is constantly surrounded by tourists and passers by all aiming to get an uninterrupted photo. Have to have ninja like quickness to get it though.
 
@@ -34,13 +34,15 @@ I suppose being in Japan, we should try some Japanese food. First thing to tick 
 
 We went for a small walk around to find **Ichiran**, a ramen restaurant tucked away beneath some stairs. The first thing you encounter when you enter isn't a waitress, but rather a machine with an assortment of buttons with Japanese descriptions beneath. Fortunately, for the non Japanese speaking, there's pictures.
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/ichiranButtons.jpg "Ramen Efficiency")
 
 The idea is to put your order down and pay at the machine, to which then you're seated. Then you sit in your own little secluded booth where you fill out your ramen preferences then place your order and preferences through a wall where the waitress reads out your order. You never see them other than their kimono, so it's a strange little experience to have food passed through to you through a slot, much like you would in prison.
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/soloRamen.JPG "Dining For One")
 
 I think being from Melbourne, one thing that we do have an abundance of other than rain is good food. Whilst this ramen was pretty good, I'd say that what we have in Melbourne nowadays definitely is up there in terms of matching the authenticity of what you can find here. 
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/ramenSelfie.JPG "Obligatory Ramen Selfie")
 
 ### Going on Walkabout
 
@@ -58,15 +60,17 @@ The Meiji period is seen as a tremendous era in Japanese history and the shrine 
 
 Before reaching the main shrine grounds, there's a wall of wine and sake barrels, offerings from all around Japan for the sake and wine from France.
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/sakeBarrels.jpg "Fresh Sake Anyone")
 
 When you reach the shrine grounds, there's a small area where you can wash your hands and wrinse your mouth so you're clean before you step into the shrine. There's instructions on the process but it can still be a little confusing for the uninitiated.
 
 Within the shrine there's a couple of things to see and do, there's a prayer wall where you can write your prayers and hang them up and another area where you can pay your respects to the emperor. It's definitely a serene area and all the workers there take their job very seriously, constantly ensuring that everything is in an emmaculate state.
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/meijiShrine.JPG "Peace and Quiet")
 
 After the long walk through the park and some time at the shrine, it was time to finally check into our accomodation, so the long walk back began.
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/meijiSelfie.JPG "Why Not")
 
 ### A Home Away From Home
 
@@ -80,7 +84,8 @@ Once we felt a little fresher, we decided to check out the food that Shibuya had
 
 Anymore onto more positive things, the chicken shop was awesome! Then again, you can't really go wrong with fried chicken, and this place continued that trend. Simple fried chicken with your choice of toppings, a nice little snack.
 
-**Insert Image**
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/friedChicken.jpg "Nothing can go wrong with chicken")
 
 ### Eating After Snacking
 
@@ -88,7 +93,7 @@ After the quick pitstop for chicken, we ended up at **Hoshino Coffee**, a small 
 
 We tried 2, a souffle cheesecake and a souffle pancake. I'd say that the cheesecake was the better of the two since the pancake sort of reminded us of a really fluffy version of the short stack at Pancake Parlour. 
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/cheeseCakeSouffle.jpg "Nothing can go wrong with chicken")
 
 It was nice to spend some time to just kick back and relax, to take in the fact that after a full day of travelling there, that we're finally in Japan.
 
@@ -96,11 +101,13 @@ It was nice to spend some time to just kick back and relax, to take in the fact 
 
 The famous crossing that comes up in almost every movie that takes place in Tokyo. Although the rains were out today, it still didn't dampen the spectacle of watching the hordes of people making the seemingly chaotic journey to cross the road. 
 
-**Insert Image**
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/shibuyaCrossing.jpg "Nothing can go wrong with chicken")
 
 And in a place where you probably won't get shamed for using a selfie stick, why not take a picture of yourself in the middle of the crossing.
 
-**Insert Image**
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/shibuyaSelfie.JPG "Nothing can go wrong with chicken")
 
 After all, its not like you'll ever see any of these people again anyway :). 
 
@@ -116,13 +123,15 @@ The tiger prawns were particularly interesting as they were essentially killed r
 
 When they were initially brought over, we were both worried that we'd be eating live prawns, since we'd seen those freaky YouTube video's of wriggling squids, we didn't think it'd be too far fetched, but luckily they were taken away and cooked. 
 
-**Insert Image**
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/kaikaya.jpg "Fresh Sashimi")
 
 The prawns in the end were quite delicious although the preshow spectacle was somewhat morbid as you'd literally watch your dinner die. The rest of the dishes were also spot on, in particular the sashimi as you could really taste the freshness.
 
 After polishing all that food off, we ended with some dessert, a sakura flower gelato and a earl grey gelato. Good thing about the sakura gelato was that it didn't really taste like flowers, like lavendar flavoured stuff, **ewwwww**.
 
 I'd definitely recommend Kaikawa, the food is amazing, staff are very helpful and attentive and the general atmosphere of the restaurant is what you'd come to expect when eating at a Japanese place.
+
+![alt text](https://github.com/szeyick/Travel/blob/master/Japan/Blog/24-09-15/images/kaikayaDessert.jpg "Sakura Gelato")
 
 After dinner, we decided to call an early evening given that we'd been on the road for such a long time and there was definitely no arguments there. A quick pop by the local Family Mart and it was home and off to bed.
 
